@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>İklim Değişikliği Bizim İçin Önemli Mi?</title>
+</head>
+<style>
+    p{
+
+        font-size: 25px;
+        color: blue;
+    }
+    h1{
+        font-size: 40px;
+        text-align: center;
+    }
+</style>
+<link rel="stylesheet" href="./static/style.css">
+<body>
+    <h1>İklim Değişikliği Bizim İçin Önemli Mi?</h1>
+    <p>İklim değişikliği insanları gıda ve su kıtlığı, artan seller, aşırı sıcaklar, daha fazla hastalık ve ekonomik kayıplarla tehdit etmektedir. İnsan göçü ve çatışmalar da bunun bir sonucu olabilir.Dünya Sağlık Örgütü (DSÖ) iklim değişikliğini 21. yüzyılda küresel sağlığa yönelik en büyük tehdit olarak nitelendirmektedir.Toplumlar, kıyı şeridinin korunması veya klimaya erişimin genişletilmesi gibi çabalarla iklim değişikliğine uyum sağlayabilir, ancak bazı etkiler kaçınılmazdır. Yoksul ülkeler küresel emisyonların küçük bir kısmından sorumludur, ancak uyum sağlama konusunda en az yeteneğe sahiptirler ve iklim değişikliğine karşı en savunmasız durumdadırlar.</p>
+</body>
